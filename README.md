@@ -1,5 +1,4 @@
 # Road and field images classification
-# CNN for Image Classification
 ## Merlin Rousseau
 ### March 2023
 
